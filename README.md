@@ -1,2 +1,2 @@
 # Triqui-
-Juego triqui/ tarea
+Juego Triqui - Tarea electronica 
